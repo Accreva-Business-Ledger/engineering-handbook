@@ -1,6 +1,6 @@
-# Accreva engineering handbook
+# ACCREVA engineering handbook
 
-This handbook records the public baseline for engineering work at Accreva. Private product repositories add domain rules and release requirements where needed.
+This handbook records the public baseline for engineering work at ACCREVA. Private product repositories add domain rules and release requirements where needed.
 
 ## Working principles
 
