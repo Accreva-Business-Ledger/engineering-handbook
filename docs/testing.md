@@ -8,7 +8,7 @@ Pull requests record commands and results. A failed or skipped check needs a rea
 
 ## Product checks
 
-Accreva product repositories use automated checks for backend tests, frontend tests, type checks, builds, and migration validation. Teams add focused tests when a change affects a domain rule.
+ACCREVA product repositories use automated checks for backend tests, frontend tests, type checks, builds, and migration validation. Teams add focused tests when a change affects a domain rule.
 
 ## Manual checks
 
